@@ -13,7 +13,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - **Modern landing** with hero, feature highlights, and CTAs
 - **Responsive UI** (desktop ➝ mobile) with fluid grid and animations
@@ -24,7 +24,7 @@
 
 ---
 
-## 🧩 Project Structure
+##  Project Structure
 
 ```
 Asenay-ai-support-agent/
@@ -41,7 +41,7 @@ Asenay-ai-support-agent/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Option A — Open Locally
 
@@ -76,7 +76,7 @@ https://asenay-tech.github.io/Asenay-ai-support-agent/
 
 ---
 
-## 🧪 Demo (Coming Soon)
+##  Demo (Coming Soon)
 
 Once hosted, include screenshots or a live video demo.
 
@@ -97,7 +97,7 @@ Once hosted, include screenshots or a live video demo.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome your ideas and contributions!
 
@@ -109,7 +109,7 @@ We welcome your ideas and contributions!
 
 ---
 
-## 📬 Contact
+## Contact
 
 For partnership or support inquiries:
 
@@ -126,7 +126,7 @@ See [`LICENSE`](LICENSE) for more information.
 
 ---
 
-## 🚀 Powered by
+## Powered by
 
 **Asenay Tech** — lightweight, affordable AI apps & automations  
-🧠 Innovating across Africa and beyond.
+ Innovating across Africa and beyond.
